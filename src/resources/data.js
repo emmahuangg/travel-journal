@@ -28,5 +28,25 @@ export default [
         endDate: "January 2019",
         description: "Las Vegas, often known simply as Vegas, is the 25th-most populous city in the United States, the most populous city in the state of Nevada, and the county seat of Clark County. The city anchors the Las Vegas Valley metropolitan area and is the largest city within the greater Mojave Desert.",
         img: "https://images.ctfassets.net/rxqefefl3t5b/5QX5qG3dBxzfT3rwyTmVIb/ff5224e4d76af8b9021fb409cf2641e9/shutterstock_1499600606_copy.jpg?fl=progressive&q=80"
+    },
+    {
+        id: 4,
+        location: "Taipei",
+        country: "Taiwan",
+        link: "https://goo.gl/maps/yfbkt5zYzFw269gJ7",
+        startDate: "March 2014",
+        endDate: "April 2014",
+        description: "Taipei, the capital of Taiwan, is a modern metropolis with Japanese colonial lanes, busy shopping streets and contemporary buildings. The skyline is crowned by the 509m-tall, bamboo-shaped Taipei 101 skyscraper, with upscale shops at the base and a rapid elevator to an observatory near the top. Taipei is also known for its lively street-food scene and many night markets, including expansive Shilin market.",
+        img: "https://a.cdn-hotels.com/gdcs/production57/d1344/58e63eaa-73ec-48f3-828a-c287ee898ac3.jpg?impolicy=fcrop&w=800&h=533&q=medium"
+    },
+    {
+        id: 5,
+        location: "Waterloo",
+        country: "Canada",
+        link: "https://goo.gl/maps/Yn3ju6SXHcmtTDkB8",
+        startDate: "September 2022",
+        endDate: "Present",
+        description: "Waterloo is a city in the Canadian province of Ontario. It is one of three cities in the Regional Municipality of Waterloo. Waterloo is situated about 94 km west-southwest of Toronto.",
+        img: "https://uwaterloo.ca/news/sites/ca.news/files/dsc_0648_full_res_2.jpg"
     }
 ]
